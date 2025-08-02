@@ -2,7 +2,7 @@
 
 set -e
 
-APPIMAGE_URL="https://downloads.cursor.com/production/031e7e0ff1e2eda9c1a0f5df67d44053b059c5df/linux/x64/Cursor-1.2.1-x86_64.AppImage"
+APPIMAGE_URL="https://downloads.cursor.com/production/54c27320fab08c9f5dd5873f07fca101f7a3e076/linux/x64/Cursor-1.3.9-x86_64.AppImage"
 ICON_URL="https://raw.githubusercontent.com/paulorcvieira/cursor-ide-installer/main/cursor.png"
 
 APPIMAGE_PATH="/opt/cursor.AppImage"
